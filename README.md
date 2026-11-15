@@ -1,0 +1,1 @@
+# SINDy-on-Hindmarsh-Rose-neuron-model
